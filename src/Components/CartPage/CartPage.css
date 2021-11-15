@@ -1,0 +1,17 @@
+.cartItems-conatiner {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  max-width: 55%;
+  padding-left: 250px;
+}
+
+#total-price {
+  float: right;
+  margin: 25px 260px 0 0;
+}
+
+#checkout-btn {
+  float: right;
+  margin: 30px -300px 0 0;
+}

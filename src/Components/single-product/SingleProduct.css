@@ -1,0 +1,19 @@
+.singleProduct-container {
+  display: flex;
+  float: left;
+}
+
+.image-container img {
+  padding-top: 30px;
+  height: 500px;
+  margin-left: 50px;
+}
+
+.product-details {
+  margin: 50px 0 0 100px;
+  display: inline;
+}
+
+.rating-container {
+  float: left;
+}
